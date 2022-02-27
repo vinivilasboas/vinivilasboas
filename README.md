@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá! 👋
 
 #### Eu sou Vinícius Vilas Boas e estudo ADS (Análise e Desenvolvimento de Sistemas) no SENAC.
 
