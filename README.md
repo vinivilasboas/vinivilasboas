@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-#### Eu sou Vinícius Vilas Boas e estudo ADS no SENAC.
+#### Eu sou Vinícius Vilas Boas e estudo ADS (Análise e Desenvolvimento de Sistemas) no SENAC.
 
-Atualmento busco oportunidades para ingressar na carreira de desenvolvimento. 
-Tenho conhecimentos em lógica da programação e Java.
+Estou em transição de carreira e busco oportunidade para poder codar profissionalmente.
 <!--
 **vinivilasboas/vinivilasboas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
