@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+# Eu sou Vinícius Vilas Boas e estudo ADS no SENAC.
+
+Atualmento busco oportunidades para ingressar na carreira de desenvolvimento. 
+Tenho conhecimentos em lógica da programação e Java.
 <!--
 **vinivilasboas/vinivilasboas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
