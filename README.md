@@ -1,8 +1,6 @@
 ## Olá! 😎
 
-#### Eu sou Vinícius Vilas Boas e estudo ADS (Análise e Desenvolvimento de Sistemas) no SENAC.
-
-Estou em transição de carreira e busco oportunidade para poder codar profissionalmente.
+#### Eu sou Vinícius Vilas Boas, estou em transição de carreira e estudo ADS (Análise e Desenvolvimento de Sistemas) no SENAC.
 
 <div align="center">
   <a href="https://github.com/vinivilasboas">
