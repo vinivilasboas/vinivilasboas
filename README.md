@@ -2,13 +2,6 @@
 
 #### Eu sou Vinícius Vilas Boas, estou em transição de carreira e estudo ADS (Análise e Desenvolvimento de Sistemas) no SENAC.
 
-<div align="center">
-  <a href="https://github.com/vinivilasboas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinivilasboas&show_icons=true&theme=maroongold"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinivilasboas&layout=compact&theme=maroongold"/>
-</div>
-
-
 ###
   
 <div> 
