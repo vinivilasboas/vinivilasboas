@@ -1,6 +1,6 @@
 ## Olá! 😎
 
-#### Eu sou Vinícius Vilas Boas, estou em transição de carreira e estudo ADS (Análise e Desenvolvimento de Sistemas) no SENAC.
+#### Eu sou Vinícius Vilas Boas, analista de TI e graduado em ADS (Análise e Desenvolvimento de Sistemas) pelo SENAC.
 
 ###
   
