@@ -4,11 +4,15 @@
 
 ###
 
+<div>
+
 ![](https://raw.githubusercontent.com/vinivilasboas/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/vinivilasboas/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 ![](https://raw.githubusercontent.com/vinivilasboas/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/vinivilasboas/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
+</div>
   
 <div> 
   <a href="https://www.linkedin.com/in/vinivilasboas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
