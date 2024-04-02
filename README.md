@@ -3,6 +3,9 @@
 #### Eu sou Vinícius Vilas Boas, analista de TI e graduado em ADS (Análise e Desenvolvimento de Sistemas) pelo SENAC.
 
 ###
+
+![](https://raw.githubusercontent.com/vinivilasboas/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/vinivilasboas/github-stats/master/generated/overview.svg#gh-light-mode-only)
   
 <div> 
   <a href="https://www.linkedin.com/in/vinivilasboas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
