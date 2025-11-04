@@ -1,6 +1,6 @@
 ## Olá! 😎
 
-#### Eu sou Vinícius Vilas Boas, analista de TI e graduado em ADS (Análise e Desenvolvimento de Sistemas) pelo SENAC.
+#### Eu sou Vinícius Vilas Boas, Analista de TI no Banco do Brasil, graduado em ADS (Análise e Desenvolvimento de Sistemas) pelo SENAC e estou cursando pós-graduação em Alta Palataforma Mainframe IBM pelo INEFE.
 
 ###
 
